@@ -1,3 +1,4 @@
+REMOTE
 # test_conflit
 
 **Cet exercice permet de gérer les conflits entre différentes version d'utilisateur.**
